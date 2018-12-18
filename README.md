@@ -24,4 +24,4 @@ Estagiário em programação!
 ### Artes 
 
 #### Alunos
-![FOFUXUCO](https://www.google.com/search?q=POKEMON&rlz=1C1GCEU_pt-BRBR821BR821&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiapuDz7KnfAhXDf5AKHfvYAjAQ_AUIDygC&biw=1920&bih=969#imgrc=VJ0Q5oephaBHcM:)
+![FOFUXUCO](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep04_ss01.jpg)
