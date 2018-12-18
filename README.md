@@ -13,9 +13,10 @@ Estagiário em programação!
 3. Fcebook: 
 
 
--Number 1
--Number 3
--Number 2
+- Number 1
+- Number 2
+- Number 3
+
 ## Jogos
 
 ### Artes 
