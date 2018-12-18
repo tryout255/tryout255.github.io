@@ -24,4 +24,4 @@ Estagiário em programação!
 ### Artes 
 
 #### Alunos
-![FOFUXUCO](https://www.google.com/search?q=POKEMON&rlz=1C1GCEU_pt-BRBR821BR821&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiapuDz7KnfAhXDf5AKHfvYAjAQ_AUIDygC&biw=1920&bih=969#imgrc=IY45D2PQ04up2M:)
+![FOFUXUCO](https://www.google.com/search?q=POKEMON&rlz=1C1GCEU_pt-BRBR821BR821&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiapuDz7KnfAhXDf5AKHfvYAjAQ_AUIDygC&biw=1920&bih=969#imgrc=VJ0Q5oephaBHcM:)
