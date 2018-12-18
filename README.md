@@ -19,7 +19,7 @@ Estagiário em programação!
 
 ## Jogos
 
-**Meu jogo** :_Jogo muito legal_
+**Meu jogo** : _Jogo muito legal_
 
 ### Artes 
 
