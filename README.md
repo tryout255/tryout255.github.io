@@ -29,6 +29,7 @@ Estagiário em programação!
   ![Clique aqui](https://http2.mlstatic.com/caneca-porcelana-geek-simpsons-hommer-D_NQ_NP_646731-MLB26105730119_102017-F.jpg)
   
   3. Adicionar uma imagem do computador (arquivo):
+  ![Imagem](soul-eater-1.jpg)
   
 #### Alunos
 
