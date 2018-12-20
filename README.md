@@ -22,6 +22,13 @@ Estagiário em programação!
 **Meu jogo** : _Jogo muito legal_
 
 ### Artes 
-
+  1. Adicionar um Link (url):
+  [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)
+  
+  2.Adicionar uma imagem da internet:
+  ![Clique aqui](https://http2.mlstatic.com/caneca-porcelana-geek-simpsons-hommer-D_NQ_NP_646731-MLB26105730119_102017-F.jpg)
+  
+  3. Adicionar uma imagem do computador (arquivo):
+  
 #### Alunos
-![FOFUXUCO](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season21/season21_ep04_ss01.jpg)
+
