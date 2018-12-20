@@ -30,6 +30,7 @@ Estagiário em programação!
   
   3. Adicionar uma imagem do computador (arquivo):
   ![Imagem](soul-eater-1.jpg)
+  ![Imagem1](813479_1.jpg)
   
 #### Alunos
 
