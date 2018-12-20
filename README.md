@@ -35,7 +35,7 @@ Estagiário em programação!
   [![Imagem1](813479_1.jpg)](http://Twitter.com)
   
   5.Adicionar um link que seja a imagem e que abra em uma nova guia:
-  <a href = "http://google.com" target  = "_blank"> ![Imagem](soul-eater-1.jpg) </a> 
+  <a href = "http://google.com" target  = "_black"> ![Imagem](soul-eater-1.jpg) </a> 
   
 
 #### Alunos
