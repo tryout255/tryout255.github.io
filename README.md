@@ -1,6 +1,6 @@
 # Portifólio:
  ![Imagem](minhafoto.jpg)
-# Anthony Gabriel de Lima
+## Anthony Gabriel de Lima
 
 # Sobre mim:
  Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D
