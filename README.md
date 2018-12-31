@@ -1,6 +1,6 @@
 # Portifólio:
  ![Imagem](minhafoto.jpg)
-## Anthony Gabriel de Lima
+## Anthony Gabriel de Lima, 17 anos.
 
 # Sobre mim:
  Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D
@@ -8,7 +8,7 @@
  um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos
  meus trabalhos e também meus contatos.
 
-# Contatos 
+# Contatos
 
 1. Twitter:
 2. E-mail:
@@ -19,7 +19,8 @@
 - Number 2
 - Number 3
 
-## Jogos
+# Artes feitas:
+
 
 **Meu jogo** : _Jogo muito legal_
 
