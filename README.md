@@ -1,8 +1,9 @@
-# Meu Portifólio
+# Portifólio:
  ![Imagem](minhafoto.jpg)
-Anthony Gabriel de Lima,  17 anos.
+# Anthony Gabriel de Lima
 
-Programador Web, programador de jogos e artista 2D!
+# Sobre mim:
+ Progrmado
 
 Estagiário em programação!
 
