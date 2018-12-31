@@ -3,9 +3,10 @@
 # Anthony Gabriel de Lima
 
 # Sobre mim:
- Progrmado
-
-Estagiário em programação!
+ Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D
+ e jogos games online nas horas vagas, tenho no momento 4 jogos feito para trabalhos em sala de aula, aumejo
+ um dia ser um grande programador de jogo e também um excelente desenvolvedor Web. A seguir acompanhe meus
+ trabalhos, meus contatos e algumas artes que fiz.
 
 # Contatos 
 
