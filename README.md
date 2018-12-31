@@ -20,7 +20,8 @@
 - Number 3
 
 # Artes feitas:
- ![Imagem](lobao.png)
+A este eu dei o nome de licaão é uma criatura de mitologia grega antiga:
+![Imagem](lobao.png)
 
 **Meu jogo** : _Jogo muito legal_
 
