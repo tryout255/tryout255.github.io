@@ -20,7 +20,7 @@
 - Number 3
 
 # Artes feitas:
- ![Imagem](Liacaoo andando0005.png)
+ ![Imagem](lobao.png)
 
 **Meu jogo** : _Jogo muito legal_
 
