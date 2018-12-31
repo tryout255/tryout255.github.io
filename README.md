@@ -19,12 +19,8 @@ Este é o personagem que seria encarregado de matar o licaão, o nome dele é As
 
 1. Twitter:
 2. E-mail:
-3. Fcebook: 
+3. Facebook: [![Imagem1](facebook.png)](https://www.facebook.com/anthony.gabriel.1272)
 
-
-- Number 1
-- Number 2
-- Number 3
 
 **Meu jogo** : _Jogo muito legal_
 
