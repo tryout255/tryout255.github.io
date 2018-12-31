@@ -8,6 +8,13 @@
  um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos
  meus trabalhos e também meus contatos.
 
+# Artes feitas:
+A este eu dei o nome de licaão é uma criatura de mitologia grega antiga:
+![Imagem](lobao.png)
+
+Este é o personagem que seria encarregado de matar o licaão, o nome dele é Asbros:
+![Imagem](Asbros.png)
+
 # Contatos
 
 1. Twitter:
@@ -18,13 +25,6 @@
 - Number 1
 - Number 2
 - Number 3
-
-# Artes feitas:
-A este eu dei o nome de licaão é uma criatura de mitologia grega antiga:
-![Imagem](lobao.png)
-
-Este é o personagem que seria encarregado de matar o licaão, o nome dele é Asbros:
-![Imagem](Asbros.png)
 
 **Meu jogo** : _Jogo muito legal_
 
