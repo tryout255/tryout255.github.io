@@ -35,7 +35,7 @@ Este é o personagem que deveria ser um novo deus da mitologia grega em um dos m
 
 <a href = "https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/" target = "_blank">  CONFIRA O GAME!  </a> 
 ## Super Dino:
-![Imagem](Super-Dino.png)
+![Imagem](Super-dino.png)
 <a href = "https://lemuelmarques.github.io/SUPERDINO/" target = "_blank">  CONFIRA O GAME!  </a>
  <!-- 1. Adicionar um Link (url):
   [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)-->
