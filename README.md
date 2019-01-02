@@ -17,15 +17,12 @@ Este é o personagem que seria encarregado de matar o licaão, o nome dele é As
 
 # Contatos
 
-1. Twitter:
-2. E-mail: tryout3699@gmail.com
-3. Facebook:
+1. E-mail: tryout3699@gmail.com
+2. Facebook:
 <a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
 
 
-**Meu jogo** : _Jogo muito legal_
-
-### Artes 
+# Alguns de meus jogos: 
   1. Adicionar um Link (url):
   [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)
   
@@ -42,5 +39,4 @@ Este é o personagem que seria encarregado de matar o licaão, o nome dele é As
   <a href = "http://google.com" target  = "_blank" > ![Imagem](soul-eater-1.jpg) </a> 
   
 
-#### Alunos
 
