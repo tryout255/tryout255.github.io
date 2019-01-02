@@ -10,7 +10,7 @@
 
 # Artes feitas:
 A este eu dei o nome de licaão é uma criatura de mitologia grega antiga:
-![Imagem](lobao.png)
+![Imagem](Correndo-save-1.gif)
 
 Este é o personagem que seria encarregado de matar o licaão, o nome dele é Asbros:
 ![Imagem](Asbros.png)
