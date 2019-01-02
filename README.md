@@ -9,10 +9,10 @@
  meus trabalhos e também meus contatos.
 
 # Artes feitas:
-A este eu dei o nome de licaão é uma criatura de mitologia grega antiga:
+A este eu dei o nome de Rapozão, foi um person de um jogo que não ficou pronto, mas me orgulho dele:
 ![Imagem](Correndo-save-1.gif)
 
-Este é o personagem que seria encarregado de matar o licaão, o nome dele é Asbros:
+Este é o personagem que deveria ser um novo deus da mitologia grega,nome dele é Asbros:
 ![Imagem](Asbros.png)
 
 # Contatos
