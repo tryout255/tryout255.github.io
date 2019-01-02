@@ -20,7 +20,7 @@ ela foi inspirada nas personagens de um jogo que se chama skullgirls:
 ![Imagem](AGRVAI.gif)
 
 Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
-<iframe> src = "Asbros.png" width = "600" height = "800"</iframe>
+![Imagem](Asbros.png)
 
 # Contatos
 
