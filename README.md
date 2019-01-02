@@ -22,12 +22,6 @@ ela foi inspirada nas personagens de um jogo que se chama skullgirls:
 Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
 ![Imagem](AGRFOI.png)
 
-# Contatos
-
-1. E-mail: tryout3699@gmail.com
-2. Facebook:
-<a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
-
 
 # Alguns de meus jogos: 
 ## The legend of zestria:
@@ -52,6 +46,11 @@ Este é o personagem que deveria ser um novo deus da mitologia grega em um dos m
   <!--5.Adicionar um link que seja a imagem e que abra em uma nova guia:
   <a href = "http://google.com" target  = "_blank" > ![Imagem](soul-eater-1.jpg) </a> -->
   
-  
+  # Contatos
+
+1. E-mail: tryout3699@gmail.com
+2. Facebook:
+<a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
+
 
 
