@@ -15,8 +15,13 @@ A este eu dei o nome de Rapozão, foi um person de um jogo que não ficou pronto
 Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
 ![Imagem](Liacaoo-andando.gif)
 
+Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
+ela foi inspirada nas personagens de um jogo que se chama skullgirls:
+![Imagem](Alice-walk.gif)
 Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
 ![Imagem](Asbros.png)
+
+
 
 # Contatos
 
