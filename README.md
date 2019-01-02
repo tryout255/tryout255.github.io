@@ -17,7 +17,7 @@ Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguh
 
 Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
 ela foi inspirada nas personagens de um jogo que se chama skullgirls:
-![Imagem](Alice-Walk.gif)
+![Imagem](Alice-Walk-certo.gif)
 Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
 ![Imagem](Asbros.png)
 
