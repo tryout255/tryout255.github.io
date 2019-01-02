@@ -30,6 +30,12 @@ Este é o personagem que deveria ser um novo deus da mitologia grega em um dos m
 
 
 # Alguns de meus jogos: 
+The legend of zestria:
+https://gabfelix.github.io/The%20legend%20of%20zestria%202.0/
+
+Super Dino:
+https://lemuelmarques.github.io/SUPERDINO/
+
  <!-- 1. Adicionar um Link (url):
   [Clique aqui](https://pbs.twimg.com/profile_images/505770595422699521/n8bFETLR.jpeg)-->
   
