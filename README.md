@@ -3,24 +3,20 @@
 ## Anthony Gabriel de Lima, 17 anos.
 
 # Sobre mim:
- Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D
- e jogo games online nas horas vagas, tenho no momento 2 jogos prontos que foram de trabalhos feitos em sala de aula, 
- almejo um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos
- meus trabalhos e também meus contatos.
+### Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2De jogo games online nas horas vagas, tenho no momento 2 jogos prontos que foram de trabalhos feitos em sala de aula, almejo um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos meus trabalhos e também meus contatos.
 
 # Artes feitas:
-A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
+### A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
 
 ![Imagem](Correndo-save-1.gif)
 
-Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
+### Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
 ![Imagem](Liacaoo-andando.gif)
 
-Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo
-ela foi inspirada nas personagens de um jogo que se chama skullgirls:
+### Está é uma de minhas personagens, ela deveria ser de um jogo de luta, mas não tive tempo de terminá-lo ela foi inspirada nas personagens de um jogo que se chama skullgirls:
 ![Imagem](AGRVAI.gif)
 
-Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
+### Este é o personagem que deveria ser um novo deus da mitologia grega em um dos meus jogos, mas deu ruim , o nome dele é Asbros:
 ![Imagem](AGRFOI.png)
 
 
@@ -47,10 +43,10 @@ Este é o personagem que deveria ser um novo deus da mitologia grega em um dos m
   <!--5.Adicionar um link que seja a imagem e que abra em uma nova guia:
   <a href = "http://google.com" target  = "_blank" > ![Imagem](soul-eater-1.jpg) </a> -->
   
-  # Contatos
+# Contatos
 
-1. E-mail: tryout3699@gmail.com
-2. Facebook:
+### 1. E-mail: tryout3699@gmail.com
+### 2. Facebook:
 <a href = "https://www.facebook.com/anthony.gabriel.1272" target = "_blank">  Clique aqui  </a> para ir ao meu facebook!
 
 
