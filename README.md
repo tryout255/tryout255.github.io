@@ -3,7 +3,7 @@
 ## Anthony Gabriel de Lima, 17 anos.
 
 # Sobre mim:
-### Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2De jogo games online nas horas vagas, tenho no momento 2 jogos prontos que foram de trabalhos feitos em sala de aula, almejo um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos meus trabalhos e também meus contatos.
+#### Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D e jogo games online nas horas vagas, tenho no momento 2 jogos prontos que foram de trabalhos feitos em sala de aula, almejo um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos meus trabalhos e também meus contatos.
 
 # Artes feitas:
 ### A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
