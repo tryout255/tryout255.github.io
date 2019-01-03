@@ -4,12 +4,12 @@
 
 # Sobre mim:
  Estudante do IFRN, curso de programação de jogos, e estagiário em desenvolvimento Web, também sou artista 2D
- e jogos games online nas horas vagas, tenho no momento 4 jogos feitos para trabalhos em sala de aula, almejo
- um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos
+ e jogo games online nas horas vagas, tenho no momento 2 jogos prontos que foram de trabalhos feitos em sala de aula, 
+ almejo um dia ser um grande programador de jogos e também um excelente desenvolvedor Web. A seguir acompanhe alguns dos
  meus trabalhos e também meus contatos.
 
 # Artes feitas:
-A este eu dei o nome de Rapozão, foi um person de um jogo que não ficou pronto, mas me orgulho dele:
+A este eu dei o nome de Rapozão, foi um personagem de um jogo que não ficou pronto, mas me orgulho dele:
 ![Imagem](Correndo-save-1.gif)
 
 Este é uma criatura dos tempos mitologicos chamada de liacão, também me orguho dele:
